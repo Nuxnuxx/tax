@@ -1,0 +1,47 @@
+{
+  "source": "https://www.fedlex.admin.ch/eli/cc/1991/1184_1184_1184/fr#art_36",
+  "legal_basis": "LIFD Art. 36 - État le 1er janvier 2026",
+  "year": 2026,
+  "currency": "CHF",
+  "single_person": {
+    "description": "Barème pour personnes seules (art. 36 al. 1 LIFD)",
+    "brackets": [
+      { "up_to": 15200, "base_tax": 0.00, "rate_per_100": 0.77 },
+      { "up_to": 33200, "base_tax": 138.60, "rate_per_100": 0.88 },
+      { "up_to": 43500, "base_tax": 229.20, "rate_per_100": 2.64 },
+      { "up_to": 58000, "base_tax": 612.00, "rate_per_100": 2.97 },
+      { "up_to": 76200, "base_tax": 1152.50, "rate_per_100": 5.94 },
+      { "up_to": 82100, "base_tax": 1502.95, "rate_per_100": 6.60 },
+      { "up_to": 108900, "base_tax": 3271.75, "rate_per_100": 8.80 },
+      { "up_to": 141500, "base_tax": 6140.55, "rate_per_100": 11.00 },
+      { "up_to": 185100, "base_tax": 10936.55, "rate_per_100": 13.20 },
+      { "up_to": 793900, "base_tax": 91298.15, "rate_per_100": null },
+      { "from": 794000, "base_tax": 91310.00, "rate_per_100": 11.50 }
+    ],
+    "max_rate_percent": 11.5
+  },
+  "married_couple": {
+    "description": "Barème pour époux vivant en ménage commun (art. 36 al. 2 LIFD)",
+    "note": "S'applique aussi aux contribuables veufs, séparés, divorcés ou célibataires vivant en ménage commun avec des enfants ou des personnes nécessiteuses (art. 36 al. 2bis)",
+    "brackets": [
+      { "up_to": 29700, "base_tax": 0.00, "rate_per_100": 1.00 },
+      { "up_to": 53400, "base_tax": 237.00, "rate_per_100": 2.00 },
+      { "up_to": 61300, "base_tax": 395.00, "rate_per_100": 3.00 },
+      { "up_to": 79100, "base_tax": 929.00, "rate_per_100": 4.00 },
+      { "up_to": 94900, "base_tax": 1561.00, "rate_per_100": 5.00 },
+      { "up_to": 108700, "base_tax": 2251.00, "rate_per_100": 6.00 },
+      { "up_to": 120600, "base_tax": 2965.00, "rate_per_100": 7.00 },
+      { "up_to": 130500, "base_tax": 3658.00, "rate_per_100": 8.00 },
+      { "up_to": 138400, "base_tax": 4290.00, "rate_per_100": 9.00 },
+      { "up_to": 144300, "base_tax": 4821.00, "rate_per_100": 10.00 },
+      { "up_to": 148300, "base_tax": 5221.00, "rate_per_100": 11.00 },
+      { "up_to": 150400, "base_tax": 5452.00, "rate_per_100": 12.00 },
+      { "up_to": 152400, "base_tax": 5692.00, "rate_per_100": 13.00 },
+      { "up_to": 941300, "base_tax": 108249.00, "rate_per_100": null },
+      { "from": 941400, "base_tax": 108261.00, "rate_per_100": 11.50 }
+    ],
+    "max_rate_percent": 11.5,
+    "child_reduction_per_child": 263
+  },
+  "minimum_tax_threshold": 25
+}

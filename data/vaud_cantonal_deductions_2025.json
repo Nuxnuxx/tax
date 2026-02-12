@@ -1,0 +1,124 @@
+{
+  "source": "https://www.vd.ch/fileadmin/user_upload/organisation/dfin/aci/fichiers_pdf/Tableau_des_déductions_2025.pdf",
+  "legal_basis": "LI - Loi sur les impôts directs cantonaux (Canton de Vaud)",
+  "year": 2025,
+  "currency": "CHF",
+  "professional_deductions": {
+    "commuting_costs": {
+      "code": 140,
+      "description": "Frais de déplacement",
+      "public_transport": "selon norme forfaitaire",
+      "car_per_km_up_to_15000": 0.70,
+      "car_per_km_from_15001": 0.35
+    },
+    "meal_costs": {
+      "code": 150,
+      "description": "Frais de repas",
+      "without_canteen": 3200,
+      "with_canteen": 1600
+    },
+    "residence_away_from_home": {
+      "code": 150,
+      "description": "Résidence hors du domicile (repas midi et soir)",
+      "without_canteen": 6400,
+      "with_canteen": 4800
+    },
+    "other_professional_expenses": {
+      "code": 160,
+      "description": "Autres frais professionnels",
+      "rate_pct": 3,
+      "min": 2000,
+      "max": 4000
+    },
+    "secondary_activity_expenses": {
+      "code": 165,
+      "description": "Frais pour activité accessoire",
+      "rate_pct": 20,
+      "min": 800,
+      "max": 2400
+    },
+    "dual_income_deduction": {
+      "code": 235,
+      "description": "Double activité des conjoints",
+      "max": 1700,
+      "note": "Applicable when lowest income minus codes 140-165 and pension premiums codes 310-340 reaches this amount"
+    }
+  },
+  "insurance_and_savings_deductions": {
+    "health_insurance": {
+      "code": 300,
+      "description": "Assurance-maladie",
+      "single": 5000,
+      "couple_or_registered_partnership": 9900,
+      "per_child": 1300
+    },
+    "pillar_3a": {
+      "code": 310,
+      "description": "Prévoyance individuelle liée (pilier 3a)",
+      "with_2nd_pillar": 7258,
+      "without_2nd_pillar_rate_pct": 20,
+      "without_2nd_pillar_max": 36288
+    },
+    "savings_interest": {
+      "code": 480,
+      "description": "Intérêts de capitaux d'épargne",
+      "single": 1600,
+      "couple": 3300,
+      "per_child": 300
+    }
+  },
+  "investment_deductions": {
+    "securities_admin_fees": {
+      "code": 490,
+      "description": "Frais d'administration des titres",
+      "rate_permille": 1.5,
+      "note": "1.5‰ des titres et autres placements de capitaux déclarés sous code 410"
+    },
+    "lottery_stakes": {
+      "code": 495,
+      "description": "Mises dans les loteries",
+      "rate_pct": 5,
+      "max_per_gain": 5000,
+      "note": "5% de chaque gain imposable de loterie"
+    }
+  },
+  "property_deductions": {
+    "building_maintenance": {
+      "code": 540,
+      "description": "Frais d'entretien d'immeuble",
+      "over_20_years_pct": 30,
+      "under_20_years_pct": 20,
+      "note": "Percentage of rental value, or effective costs"
+    }
+  },
+  "family_deductions": {
+    "family_deduction": {
+      "code": 810,
+      "description": "Déduction supplémentaire pour famille",
+      "income_threshold": 126300,
+      "married_couple": 1300,
+      "single_parent_part_1_3": 2800,
+      "per_child_part_0_5": 1000,
+      "phase_out": {
+        "from_126300_to_164100": {
+          "reduction_per_income_step": 100,
+          "income_step": 2100
+        },
+        "above_164100": {
+          "reduction_per_income_step": 100,
+          "income_step": 1000
+        }
+      }
+    }
+  },
+  "quotient_familial": {
+    "description": "Quotient familial - Le revenu déterminant pour le taux est divisé par le total des parts",
+    "parts": {
+      "single_widowed_divorced": 1.0,
+      "married_registered_partnership": 1.8,
+      "single_parent_with_minor_child": 1.3,
+      "per_child": 0.5
+    },
+    "note": "The taxable income is divided by the total parts to determine the applicable tax rate from the barème, then the resulting base tax is multiplied back by the total parts"
+  }
+}

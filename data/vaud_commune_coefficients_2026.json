@@ -1,0 +1,2444 @@
+{
+  "source": "https://www.vd.ch/etat-droit-finances/communes/finances-communales/arretes-dimposition-et-tableaux-des-impots-communaux",
+  "file_url": "https://www.vd.ch/fileadmin/user_upload/themes/territoire/communes/finances_communales/fichiers_xls/Arrêtés_d_imposition_2026.xls",
+  "year": 2026,
+  "currency": "CHF",
+  "description": "Coefficients d'imposition communaux du Canton de Vaud pour 2026. Le coefficient représente un pourcentage de l'impôt cantonal de base (barème à 100%). L'impôt total = impôt_base × (coefficient_cantonal + coefficient_communal) / 100",
+  "cantonal_coefficient_pct": 155.0,
+  "note": "cantonal_coefficient is for 2025 - verify 2026 value when available",
+  "total_communes": 304,
+  "communes": [
+    {
+      "commune": "Aigle",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bex",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chessel",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Corbeyrier",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Gryon",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 73.5,
+      "coefficient_total_pct": 73.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lavey-Morcles",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 71.5,
+      "coefficient_total_pct": 71.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Leysin",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 78.0,
+      "coefficient_total_pct": 78.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Noville",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ollon",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ormont-Dessous",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 74.9,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ormont-Dessus",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rennaz",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Roche",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 66.5,
+      "coefficient_total_pct": 66.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Villeneuve",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 66.5,
+      "coefficient_total_pct": 66.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Yvorne",
+      "district": "DISTRICT D'AIGLE",
+      "coefficient_revenu_pct": 71.5,
+      "coefficient_total_pct": 71.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Avenches",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bussy-sur-Moudon",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 78.5,
+      "coefficient_total_pct": 78.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Champtauroz",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chavannes-sur-Moudon",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chevroux",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 68.5,
+      "coefficient_total_pct": 68.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Corcelles-le-Jorat",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Corcelles-près-Payerne",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cudrefin",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 59.0,
+      "coefficient_total_pct": 59.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Curtilles",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Dompierre",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 78.0,
+      "coefficient_total_pct": 78.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Faoug",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Grandcour",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Henniez",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Hermenches",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 78.0,
+      "coefficient_total_pct": 78.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lovatens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2023,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lucens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 69.5,
+      "coefficient_total_pct": 69.5,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Missy",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Moudon",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Payerne",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2022,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Prévonloup",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ropraz",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 77.5,
+      "coefficient_total_pct": 77.5,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rossenges",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Syens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Trey",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 78.0,
+      "coefficient_total_pct": 78.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Treytorrens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 81.5,
+      "coefficient_total_pct": 81.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Valbroye",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 70.5,
+      "coefficient_total_pct": 70.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Villars-le-Comte",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Villarzel",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vucherens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vulliens",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vully-les-Lacs",
+      "district": "DISTRICT DE LA BROYE-VULLY",
+      "coefficient_revenu_pct": 67.0,
+      "coefficient_total_pct": 67.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Assens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bercher",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bettens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bottens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Boulens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 71.5,
+      "coefficient_total_pct": 71.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bournens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Boussens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Bretigny-sur-Morrens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cugy",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Daillens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Echallens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": "2023",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Essertines-sur-Yverdon",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Etagnières",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Fey",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Froideville",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Goumoëns",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 75.5,
+      "coefficient_total_pct": 75.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Jorat-Menthue",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 70.5,
+      "coefficient_total_pct": 70.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lussery-Villars",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Mex",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 59.5,
+      "coefficient_total_pct": 59.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Montanaire",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Montilliez",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Morrens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ogens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Oppens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Oulens-sous-Echallens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Pailly",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Penthalaz",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Penthaz",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 69.5,
+      "coefficient_total_pct": 69.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Penthéréaz",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Poliez-Pittet",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rueyres",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Saint-Barthélemy",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Sullens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Villars-le-Terroir",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vuarrens",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 73.5,
+      "coefficient_total_pct": 73.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Vufflens-la-Ville",
+      "district": "DISTRICT DU GROS-DE VAUD",
+      "coefficient_revenu_pct": 63.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Agiez",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Arnex-sur-Orbe",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Ballaigues",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Baulmes",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.5,
+      "coefficient_total_pct": 76.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bavois",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Belmont-sur-Yverdon",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bioley-Magnoux",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bofflens",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bonvillars",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 67.0,
+      "coefficient_total_pct": 67.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bretonnières",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bullet",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chamblon",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Champagne",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Champvent",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chavannes-le-Chêne",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Chavornay",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.5,
+      "coefficient_total_pct": 70.5,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chêne-Pâquier",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Cheseaux-Noréaz",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 67.0,
+      "coefficient_total_pct": 67.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Concise",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Corcelles-près-Concise",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cronay",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Croy",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Cuarny",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Démoret",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 78.0,
+      "coefficient_total_pct": 78.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Donneloye",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Ependes",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.5,
+      "coefficient_total_pct": 73.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Fiez",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Fontaines-sur-Grandson",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Giez",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Grandevent",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Grandson",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Juriens",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "La Praz",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 83.0,
+      "coefficient_total_pct": 83.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "L'Abbaye",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2022,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Les Bioux (fraction) **",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 3.0,
+      "coefficient_total_pct": 3.0,
+      "adopted_year": 2023,
+      "valid_until": 2025
+    },
+    {
+      "commune": "L'Abergement",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 80.0,
+      "coefficient_total_pct": 80.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Le Chenit",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 58.5,
+      "coefficient_total_pct": 58.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Le Brassus (fraction)",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 8.0,
+      "coefficient_total_pct": 8.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Le Sentier (fraction) **",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 8.0,
+      "coefficient_total_pct": 8.0,
+      "adopted_year": 2023,
+      "valid_until": 2025
+    },
+    {
+      "commune": "L'Orient (fraction)",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 10.0,
+      "coefficient_total_pct": 10.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Le Lieu",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2022",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Les Clées",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 80.0,
+      "coefficient_total_pct": 80.0,
+      "adopted_year": 2024,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Lignerolle",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 78.5,
+      "coefficient_total_pct": 78.5,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Mathod",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Mauborget",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Molondin",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 81.0,
+      "coefficient_total_pct": 81.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Montagny-près-Yverdon",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 64.5,
+      "coefficient_total_pct": 64.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Montcherand",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Mutrux",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 80.0,
+      "coefficient_total_pct": 80.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Novalles",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Onnens",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Orbe",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.5,
+      "coefficient_total_pct": 75.5,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Orges",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Orzens**",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": 2022,
+      "valid_until": 2024
+    },
+    {
+      "commune": "Pomy",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": 2022,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Premier",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 79.5,
+      "coefficient_total_pct": 79.5,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Provence",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 81.0,
+      "coefficient_total_pct": 81.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Rances",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.5,
+      "coefficient_total_pct": 76.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Romainmôtier-Envy",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 81.0,
+      "coefficient_total_pct": 81.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rovray",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Sainte-Croix",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2024",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Sergey",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Suchy",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Suscévaz",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Tévenon",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 71.5,
+      "coefficient_total_pct": 71.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Treycovagnes",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Ursins",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Valeyres-sous-Montagny",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.5,
+      "coefficient_total_pct": 70.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Valeyres-sous-Rances",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Valeyres-sous-Ursins",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Vallorbe",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vaulion",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 81.0,
+      "coefficient_total_pct": 81.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Villars-Epeney",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vugelles-La Mothe",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vuiteboeuf",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Yverdon-les-Bains",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Yvonand",
+      "district": "DISTRICT DU JURA-NORD VAUDOIS",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cheseaux-sur-Lausanne",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Epalinges",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 64.5,
+      "coefficient_total_pct": 64.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Jouxtens-Mézery",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 59.0,
+      "coefficient_total_pct": 59.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lausanne",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 78.5,
+      "coefficient_total_pct": 78.5,
+      "adopted_year": "2024",
+      "valid_until": "2029"
+    },
+    {
+      "commune": "Le Mont-sur-Lausanne",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Romanel-sur-Lausanne",
+      "district": "DISTRICT DE LAUSANNE",
+      "coefficient_revenu_pct": 70.5,
+      "coefficient_total_pct": 70.5,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Belmont-sur-Lausanne",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bourg-en-Lavaux",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 62.5,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chexbres",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 67.5,
+      "coefficient_total_pct": 67.5,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Forel (Lavaux)",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Jorat-Mézières",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Lutry",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 54.0,
+      "coefficient_total_pct": 54.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Maracon",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 74.5,
+      "coefficient_total_pct": 74.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Montpreveyres",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 74.5,
+      "coefficient_total_pct": 74.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Oron",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2025",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Paudex",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 66.5,
+      "coefficient_total_pct": 66.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Puidoux",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 68.5,
+      "coefficient_total_pct": 68.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Pully",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 61.0,
+      "coefficient_total_pct": 61.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rivaz",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Savigny",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Servion",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "St-Saphorin (Lavaux)",
+      "district": "DISTRICT DE LAVAUX-ORON",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Aclens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 60.0,
+      "coefficient_total_pct": 60.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Allaman",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": "2023",
+      "valid_until": 2026
+    },
+    {
+      "commune": "Aubonne",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 67.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Ballens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Berolle",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 75.5,
+      "coefficient_total_pct": 75.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Bière",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bougy-Villars",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bremblens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Buchillon",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 52.0,
+      "coefficient_total_pct": 52.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chavannes-le-Veyron",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chevilly",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chigny",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Clarmont",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 72.0,
+      "coefficient_total_pct": 72.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cossonay",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Cuarnens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Denens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 63.0,
+      "coefficient_total_pct": 63.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Denges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": 2024,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Dizy",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Echandens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 60.5,
+      "coefficient_total_pct": 60.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Echichens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Eclépens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 46.0,
+      "coefficient_total_pct": 46.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Etoy",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 60.0,
+      "coefficient_total_pct": 60.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Féchy",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Ferreyres",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2024,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Gimel",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Gollion",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Grancy",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Hautemorges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "La Chaux (Cossonay)",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "La Sarraz",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Lavigny",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "L'Isle",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lonay",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 55.0,
+      "coefficient_total_pct": 55.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lully",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 58.0,
+      "coefficient_total_pct": 58.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Lussy-sur-Morges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 61.5,
+      "coefficient_total_pct": 61.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Mauraz",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Moiry",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Mollens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Mont-la-Ville",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Montricher",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Morges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 67.0,
+      "coefficient_total_pct": 67.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Orny",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 73.0,
+      "coefficient_total_pct": 73.0,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Pompaples",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Préverenges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Romanel-sur-Morges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 56.0,
+      "coefficient_total_pct": 56.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saint-Livres",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saint-Oyens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saint-Prex",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 59.0,
+      "coefficient_total_pct": 59.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saubraz",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Senarclens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 68.5,
+      "coefficient_total_pct": 68.5,
+      "adopted_year": 2021,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Tolochenaz",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Vaux-sur-Morges",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 56.0,
+      "coefficient_total_pct": 56.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Villars-sous-Yens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 74.0,
+      "coefficient_total_pct": 74.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vufflens-le-Château",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 60.5,
+      "coefficient_total_pct": 60.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vullierens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 76.0,
+      "coefficient_total_pct": 76.0,
+      "adopted_year": "2021",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Yens",
+      "district": "DISTRICT DE MORGES",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Arnex-sur-Nyon",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Arzier-Le Muids",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 64.0,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Bassins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Begnins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 62.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bogis-Bossey",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 70.0,
+      "coefficient_total_pct": 70.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Borex",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 57.0,
+      "coefficient_total_pct": 57.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bursinel",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bursins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 71.0,
+      "coefficient_total_pct": 71.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Burtigny",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 75.0,
+      "coefficient_total_pct": 75.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chavannes-de-Bogis",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 58.0,
+      "coefficient_total_pct": 58.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chavannes-des-Bois",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chéserex",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 59.0,
+      "coefficient_total_pct": 59.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Coinsins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 49.0,
+      "coefficient_total_pct": 49.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Commugny",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 58.0,
+      "coefficient_total_pct": 58.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Coppet",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 57.0,
+      "coefficient_total_pct": 57.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Crans",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 59.0,
+      "coefficient_total_pct": 59.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Crassier",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Duillier",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Dully",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 53.0,
+      "coefficient_total_pct": 53.0,
+      "adopted_year": 2022,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Essertines-sur-Rolle",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 66.5,
+      "coefficient_total_pct": 66.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Eysins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 59.5,
+      "coefficient_total_pct": 59.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Founex",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 57.0,
+      "coefficient_total_pct": 57.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Genolier",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 52.0,
+      "coefficient_total_pct": 52.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Gilly",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 62.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Gingins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 60.0,
+      "coefficient_total_pct": 60.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Givrins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 68.5,
+      "coefficient_total_pct": 68.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Gland",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 61.0,
+      "coefficient_total_pct": 61.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Grens",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 60.0,
+      "coefficient_total_pct": 60.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "La Rippe",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 63.5,
+      "coefficient_total_pct": 63.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Le Vaud",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 69.0,
+      "coefficient_total_pct": 69.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Longirod",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 77.5,
+      "coefficient_total_pct": 77.5,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Luins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 58.5,
+      "coefficient_total_pct": 58.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Marchissy",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 77.5,
+      "coefficient_total_pct": 77.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Mies",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 54.0,
+      "coefficient_total_pct": 54.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Mont-sur-Rolle",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 62.0,
+      "coefficient_total_pct": 62.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Nyon",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 61.0,
+      "coefficient_total_pct": 61.0,
+      "adopted_year": 2023,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Perroy",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 60.5,
+      "coefficient_total_pct": 60.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Prangins",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 57.0,
+      "coefficient_total_pct": 57.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rolle",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 59.5,
+      "coefficient_total_pct": 59.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saint-Cergue",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 66.0,
+      "coefficient_total_pct": 66.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Saint-George",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 69.5,
+      "coefficient_total_pct": 69.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Signy-Avenex",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 58.0,
+      "coefficient_total_pct": 58.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Tannay",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 60.5,
+      "coefficient_total_pct": 60.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Tartegnin",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Trélex",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 57.0,
+      "coefficient_total_pct": 57.0,
+      "adopted_year": "2025",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Vich",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 63.0,
+      "coefficient_total_pct": 63.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Vinzel",
+      "district": "DISTRICT DE NYON",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Bussigny",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 62.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Chavannes-près-Renens",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 77.5,
+      "coefficient_total_pct": 77.5,
+      "adopted_year": 2023,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Crissier",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 63.5,
+      "coefficient_total_pct": 63.5,
+      "adopted_year": "2022",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Ecublens",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 62.5,
+      "adopted_year": "2022",
+      "valid_until": 2027
+    },
+    {
+      "commune": "Prilly",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 72.5,
+      "coefficient_total_pct": 72.5,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Renens",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 77.0,
+      "coefficient_total_pct": 77.0,
+      "adopted_year": "2024",
+      "valid_until": "2027"
+    },
+    {
+      "commune": "Saint-Sulpice",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 55.0,
+      "coefficient_total_pct": 55.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Villars-Sainte-Croix",
+      "district": "DISTRICT DE L'OUEST LAUSANNOIS",
+      "coefficient_revenu_pct": 60.5,
+      "coefficient_total_pct": 60.5,
+      "adopted_year": 2023,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Blonay - Saint-Légier",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 67.5,
+      "coefficient_total_pct": 67.5,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    },
+    {
+      "commune": "Chardonne",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 68.0,
+      "coefficient_total_pct": 68.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Château-d'Oex",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 79.5,
+      "coefficient_total_pct": 81.5,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Corseaux",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 67.5,
+      "coefficient_total_pct": 67.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Corsier-sur-Vevey",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 64.5,
+      "coefficient_total_pct": 64.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Jongny**",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 69.5,
+      "coefficient_total_pct": 69.5,
+      "adopted_year": 2023,
+      "valid_until": 2025
+    },
+    {
+      "commune": "La Tour-de-Peilz**",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 62.5,
+      "coefficient_total_pct": 64.0,
+      "adopted_year": 2023,
+      "valid_until": 2024
+    },
+    {
+      "commune": "Montreux",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": 2025,
+      "valid_until": 2027
+    },
+    {
+      "commune": "Rossinière",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 81.0,
+      "coefficient_total_pct": 81.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Rougemont",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 79.0,
+      "coefficient_total_pct": 79.0,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Vevey",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 74.5,
+      "coefficient_total_pct": 74.5,
+      "adopted_year": 2025,
+      "valid_until": 2026
+    },
+    {
+      "commune": "Veytaux",
+      "district": "DISTRICT RIVIERA-PAYS D'ENHAUT",
+      "coefficient_revenu_pct": 65.0,
+      "coefficient_total_pct": 65.0,
+      "adopted_year": "2024",
+      "valid_until": "2026"
+    }
+  ]
+}

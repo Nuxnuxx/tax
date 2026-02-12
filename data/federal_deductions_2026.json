@@ -1,0 +1,101 @@
+{
+  "source": "https://www.estv.admin.ch/fr/deductions-taux-baremes-impot-federal-direct",
+  "legal_basis": "LIFD - Loi fédérale sur l'impôt fédéral direct (RS 642.11)",
+  "year": 2026,
+  "currency": "CHF",
+  "tax_exempt_income": {
+    "lump_sum_taxation_minimum": {
+      "article": "art. 14, al. 3, let. a LIFD",
+      "amount": 435000
+    },
+    "firefighter_pay": {
+      "article": "art. 24, let. fbis LIFD",
+      "amount": 5400
+    },
+    "gambling_winnings_exempt": {
+      "article": "art. 24, let. ibis LIFD",
+      "amount": 1071000
+    },
+    "gambling_winnings_small": {
+      "article": "art. 24, let. j LIFD",
+      "amount": 1100
+    }
+  },
+  "insurance_premium_deductions": {
+    "married_couple": {
+      "with_pillar2_and_3a": {
+        "article": "art. 33, 1bis al., let. g, chiffre 1 LIFD",
+        "amount": 3700
+      },
+      "without_pillar2_and_3a": {
+        "article": "art. 33, 1bis al., let. a LIFD",
+        "amount": 5550
+      }
+    },
+    "other_taxpayers": {
+      "with_pillar2_and_3a": {
+        "article": "art. 33, 1bis al., let. g, chiffre 2 LIFD",
+        "amount": 1800
+      },
+      "without_pillar2_and_3a": {
+        "article": "art. 33, 1bis al., let. a LIFD",
+        "amount": 2700
+      }
+    },
+    "per_child": {
+      "article": "art. 33, 1er al., let. b LIFD",
+      "amount": 700
+    },
+    "per_dependent_person": {
+      "article": "art. 33, 1bis al., let. b LIFD",
+      "amount": 700
+    }
+  },
+  "general_deductions": {
+    "political_party_contributions": {
+      "article": "art. 33, al. 1, let. i LIFD",
+      "max": 10600
+    },
+    "professional_training_costs": {
+      "article": "art. 33, al. 1, let. j LIFD",
+      "max": 13000
+    },
+    "spouse_earned_income_deduction": {
+      "article": "art. 33, 2e al. LIFD",
+      "min": 8600,
+      "max": 14100
+    },
+    "childcare_deduction": {
+      "article": "art. 33, 3e al. LIFD",
+      "per_child_max": 25800
+    },
+    "gambling_stakes": {
+      "article": "art. 33, al. 4 LIFD",
+      "max": 5400
+    },
+    "online_gambling_stakes": {
+      "article": "art. 33, al. 4 LIFD",
+      "max": 26800
+    }
+  },
+  "social_deductions": {
+    "child_deduction": {
+      "article": "art. 35, 1er al., let. a LIFD",
+      "amount": 6800
+    },
+    "dependent_person_deduction": {
+      "article": "art. 35, 1er al., let. b LIFD",
+      "amount": 6800
+    },
+    "married_couple_deduction": {
+      "article": "art. 35, 1er al., let. c LIFD",
+      "amount": 2800
+    }
+  },
+  "tax_reduction": {
+    "per_child": {
+      "article": "art. 36, al. 2bis LIFD",
+      "amount": 263
+    }
+  }
+}

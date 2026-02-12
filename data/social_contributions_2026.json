@@ -1,0 +1,95 @@
+{
+  "source": "https://www.bsv.admin.ch/fr/cotisations-apercu",
+  "source_pdf": "https://www.bsv.admin.ch/dam/fr/sd-web/sAgdISSXenMT/f_Beträge%202026.pdf",
+  "legal_basis": "LAVS, LAI, LAPG, LACI",
+  "year": 2026,
+  "note": "No amount changes from 2025 to 2026 (except 13th AVS pension introduction)",
+  "currency": "CHF",
+  "employee_employer_contributions": {
+    "avs": {
+      "name_fr": "Assurance-vieillesse et survivants",
+      "name_de": "Alters- und Hinterlassenenversicherung (AHV)",
+      "employee_pct": 4.35,
+      "employer_pct": 4.35,
+      "total_pct": 8.70,
+      "base": "salaire AVS (no cap)"
+    },
+    "ai": {
+      "name_fr": "Assurance-invalidité",
+      "name_de": "Invalidenversicherung (IV)",
+      "employee_pct": 0.70,
+      "employer_pct": 0.70,
+      "total_pct": 1.40,
+      "base": "salaire AVS (no cap)"
+    },
+    "apg": {
+      "name_fr": "Allocations pour perte de gain",
+      "name_de": "Erwerbsersatzordnung (EO)",
+      "employee_pct": 0.25,
+      "employer_pct": 0.25,
+      "total_pct": 0.50,
+      "base": "salaire AVS (no cap)"
+    },
+    "total_avs_ai_apg": {
+      "employee_pct": 5.30,
+      "employer_pct": 5.30,
+      "total_pct": 10.60
+    },
+    "ac": {
+      "name_fr": "Assurance-chômage",
+      "name_de": "Arbeitslosenversicherung (ALV)",
+      "employee_pct": 1.10,
+      "employer_pct": 1.10,
+      "total_pct": 2.20,
+      "salary_cap_annual": 148200,
+      "salary_cap_monthly": 12350,
+      "solidarity_contribution_above_cap": {
+        "rate_pct": 0,
+        "note": "Solidarity surcharge eliminated as of January 1, 2023. No AC contributions on salary above CHF 148'200."
+      }
+    },
+    "aanp": {
+      "name_fr": "Assurance accidents non professionnels",
+      "name_de": "Nichtberufsunfallversicherung (NBU)",
+      "employee_pct": 1.06,
+      "employer_pct": 0,
+      "note": "Average rate (statistical 2023). Actual rate varies by insurer and risk class."
+    },
+    "aap": {
+      "name_fr": "Assurance accidents professionnels",
+      "name_de": "Berufsunfallversicherung (BU)",
+      "employee_pct": 0,
+      "employer_pct": 0.58,
+      "note": "Average rate (statistical 2023). Actual rate varies by insurer, industry and risk class. Paid entirely by employer."
+    },
+    "afam_vaud": {
+      "name_fr": "Allocations familiales (Canton de Vaud)",
+      "name_de": "Familienzulagen",
+      "employee_pct": 0,
+      "employer_pct": 2.29,
+      "note": "Vaud 2025 rate. Rate varies by canton and caisse. CAF INTER Vaud 2026: 2.83% (includes admin 0.12%, LAJE 0.16%, FPF 0.09%).",
+      "source": "https://www.vd.ch/actualites/decisions-du-conseil-detat/seance-du-conseil-detat/decision/id/217b7e79-5f0b-4d32-b66a-2c2606c650b6"
+    }
+  },
+  "self_employed_contributions": {
+    "avs_ai_apg_total": {
+      "min_pct": 5.371,
+      "max_pct": 10.0,
+      "minimum_annual": 530,
+      "note": "Sliding scale for income between 10'100 and 60'500 CHF. Max rate for income >= 60'500 CHF."
+    },
+    "sliding_scale": {
+      "lower_income_limit": 10100,
+      "upper_income_limit": 60500,
+      "minimum_income_for_minimum_contribution": 10100
+    }
+  },
+  "minimum_contributions_annual": {
+    "avs": 435,
+    "ai": 70,
+    "apg": 25,
+    "total_avs_ai_apg": 530,
+    "avs_ai_facultative": 1010
+  },
+  "salary_threshold_minime_importance": 2500
+}
